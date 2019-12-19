@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+.mash{
+	background-image: url("fgo/mash-wallpaper.jpg");
+	background-size: cover;
+	height: 650px;
+}
+.downl img{ 
+	height: 60px;
+}
+
+.downl img:hover{ 
+	height: 63px;
+}
+.downl{
+	background-color: transparent;
+	outline-color: transparent;
+}
+#fatetitle:hover{
+	opacity: 0.8;
+}
+
+.row .col-xl-6{
+	height: 650px;
+	text-align: center;
+}
+.row{text-align: center;
+}
+
+#icon{
+	height: 40px;
+}
+
+ .active{
+	  background-color: #d4d4d4;
+	  font:bold;
+			 
+}
+
+.wrapper{
+	background-color:#ced4de;
+}
+
+
+//carousel
+
+		.carousel-indicators img{
+			height: 80px;
+			opacity: 0.7;
+			
+		}
+		.carousel-indicators .active img{
+			opacity: 1;
+			height: 90px;
+		}
+		.carousel-caption{
+			top: 0;
+		}
+		.carousel-item{
+			height: 500px;
+		}
+	
+	
+	
